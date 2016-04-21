@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="Home"
+          android:id="@+id/nav_item_home"
+          android:icon="@drawable/home"/>
+
+    <item
+        android:title="Doctors"
+        android:id="@+id/nav_item_doctors"
+        android:icon="@drawable/ic_doc"/>
+
+    <item
+        android:title="Login/Register"
+        android:id="@+id/nav_item_log_sign"
+        android:icon="@drawable/sign_in"/>
+
+    <item
+        android:title="My  Appointment"
+        android:id="@+id/nav_item_appointment"
+        android:icon="@drawable/ic_apnt"/>
+   <!-- <item
+        android:title="Rate Us"
+        android:id="@+id/nav_item_rate_us"
+        android:icon="@drawable/senta"/>-->
+    <item
+        android:title="Doctor/Admin Login"
+        android:id="@+id/nav_item_doc_admin_log"
+        android:icon="@drawable/ic_panel"/>
+
+
+    <item android:title="About Us"
+        android:id="@+id/nav_item_abt_us"
+        android:icon="@drawable/ic_abt"/>
+
+    <item android:title="Call Us"
+        android:id="@+id/nav_item_contact_us"
+        android:icon="@drawable/ic_call"/>
+
+    <item android:title="Mail Us"
+        android:id="@+id/nav_item_mail_us"
+        android:icon="@drawable/ic_mail"/>
+</menu>
